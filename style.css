@@ -2,6 +2,10 @@ h1{
     font-size: 5rem;
 }
 
+h2 {
+    font-weight: 900;
+}
+
 body{
     background-color: red;
 }
